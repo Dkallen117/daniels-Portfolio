@@ -1,0 +1,49 @@
+nav {
+  float: right;
+}
+
+aside {
+  flex-direction: column;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+ul li {
+  display: inline-block;
+  margin-left: 150px;
+}
+
+.images a {
+  margin-left: 150px;
+  margin-bottom: 150px;
+  margin-right: 550px;
+}
+
+.myName {
+  font-size: 50px;
+}
+
+.horiseon {
+  width: 100%;
+}
+
+.content {
+  margin-left: 150px;
+}
+.metatron {
+  display: flex;
+  width: 90%;
+}
+
+.snarf {
+  margin-left: 150px;
+  align-self: center;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+}
